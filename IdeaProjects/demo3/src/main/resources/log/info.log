@@ -1,0 +1,22 @@
+[INFO ] 2019-03-01 14:00:32,835 method:com.example.demo.controller.UserController.get(UserController.java:39)
+Contorller层进入查询，查询id=89
+[INFO ] 2019-03-01 14:00:32,849 method:com.example.demo.service.impl.UserServiceImpl.getUser(UserServiceImpl.java:31)
+service层进入getuser　查询id=89
+[INFO ] 2019-03-01 14:08:08,710 method:com.example.demo.controller.UserController.get(UserController.java:39)
+Contorller层进入查询，查询id=89
+[INFO ] 2019-03-01 14:08:08,713 method:com.example.demo.service.impl.UserServiceImpl.getUser(UserServiceImpl.java:31)
+service层进入getuser　查询id=89
+[INFO ] 2019-03-01 14:15:24,734 method:com.example.demo.controller.UserController.set(UserController.java:30)
+Contorller层进入update，update id= 89 username: 123 password: 345
+[INFO ] 2019-03-01 14:16:38,732 method:com.example.demo.controller.UserController.set(UserController.java:30)
+Contorller层进入update 　　　id= 89 username: 123 password: 345
+[INFO ] 2019-03-01 14:17:22,800 method:com.example.demo.controller.UserController.set(UserController.java:30)
+Contorller层进入update 　　　id= 8 username: 123 password: 345
+[INFO ] 2019-03-01 14:17:41,840 method:com.example.demo.controller.UserController.get(UserController.java:40)
+Contorller层进入查询，查询id=89
+[INFO ] 2019-03-01 14:17:41,842 method:com.example.demo.service.impl.UserServiceImpl.getUser(UserServiceImpl.java:32)
+service层进入getuser　查询id=89
+[INFO ] 2019-03-01 14:35:48,827 method:com.example.demo.controller.UserController.updateUser(UserController.java:53)
+Contorller层进入update 　　　id= 8 username: 2343546 password: usdfd
+[INFO ] 2019-03-01 14:44:59,387 method:com.example.demo.controller.UserController.updateUser(UserController.java:55)
+Contorller层进入update 　　　id= 8 username: 2343546 password: usdfd
